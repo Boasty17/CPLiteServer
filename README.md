@@ -1,3 +1,6 @@
+## THIS IS NOT MAINTANED ANYMORE
+
+
 Credits of Kitsune go to the original maker. I only edited it on parts to make it functional with CPLiteServer.
 
 **NOTICE: THIS KITSUNE IS OLD. USE ![THIS ONE](https://github.com/Zaseth/KITSUNE-MODIFIED "THIS ONE")**
