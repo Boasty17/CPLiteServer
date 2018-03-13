@@ -1,4 +1,4 @@
-## THIS IS NOT MAINTANED ANYMORE
+## THIS IS NOT MAINTAINED ANYMORE
 
 
 Credits of Kitsune go to the original maker. I only edited it on parts to make it functional with CPLiteServer.
